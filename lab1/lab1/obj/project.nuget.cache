@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dryJTON57TY=",
+  "success": true,
+  "projectFilePath": "/home/maksiorek9/bfu/ASD/lab1/lab1/lab1.csproj",
+  "expectedPackageFiles": [
+    "/home/maksiorek9/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/maksiorek9/bfu/ASD/lab1/lab1/bin/Debug/net9.0/lab1
+/home/maksiorek9/bfu/ASD/lab1/lab1/bin/Debug/net9.0/lab1.deps.json
+/home/maksiorek9/bfu/ASD/lab1/lab1/bin/Debug/net9.0/lab1.runtimeconfig.json
+/home/maksiorek9/bfu/ASD/lab1/lab1/bin/Debug/net9.0/lab1.dll
+/home/maksiorek9/bfu/ASD/lab1/lab1/bin/Debug/net9.0/lab1.pdb
+/home/maksiorek9/bfu/ASD/lab1/lab1/obj/Debug/net9.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksiorek9/bfu/ASD/lab1/lab1/obj/Debug/net9.0/lab1.AssemblyInfoInputs.cache
+/home/maksiorek9/bfu/ASD/lab1/lab1/obj/Debug/net9.0/lab1.AssemblyInfo.cs
+/home/maksiorek9/bfu/ASD/lab1/lab1/obj/Debug/net9.0/lab1.csproj.CoreCompileInputs.cache
+/home/maksiorek9/bfu/ASD/lab1/lab1/obj/Debug/net9.0/lab1.dll
+/home/maksiorek9/bfu/ASD/lab1/lab1/obj/Debug/net9.0/refint/lab1.dll
+/home/maksiorek9/bfu/ASD/lab1/lab1/obj/Debug/net9.0/lab1.pdb
+/home/maksiorek9/bfu/ASD/lab1/lab1/obj/Debug/net9.0/lab1.genruntimeconfig.cache
+/home/maksiorek9/bfu/ASD/lab1/lab1/obj/Debug/net9.0/ref/lab1.dll
